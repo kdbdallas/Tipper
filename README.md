@@ -63,7 +63,7 @@ Tipper/
 ├── ContentView.swift     The entire UI and all of the tip math
 └── Assets.xcassets       App icon and accent color
 Tipper-PRIVACY.html       Privacy policy page
-Tipper-SUPPORT.html       Support page and user guide
+Tipper-ABOUT.html         About page and user guide
 ```
 
 ## How it works
